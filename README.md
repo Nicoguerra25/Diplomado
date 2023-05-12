@@ -97,8 +97,9 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - [Ejemplo de Clasificación con MNIST-Fashion](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_10_clasificacion.ipynb), [GitHub](./Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_10_clasificacion.ipynb)
    - [Introducción a la POO](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/POO_Pytorch_10_clasificacion.ipynb), [GitHub](./Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/POO_Pytorch_10_clasificacion.ipynb)
    - [Pytorch Lightning](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_lightning.ipynb), [GitHub](./Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_lightning.ipynb)
-  
-   Actualización hasta aquí...
+   - [Pytorch Lightning Avanzado](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_lightning-Clasificacion-ver_01.ipynb) 
+
+Actualización hasta aquí...
 
   ---
 - Tensorflow :fire:
@@ -239,7 +240,9 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
  - [PLN: Calificación automática de ensayos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/Practica_2_NLP.ipynb)
  - [Tensorboard en Pytorch](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Tensorboard%20en%20pytorch.ipynb)
  - [Tensorboard en Tensorflow](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Tensorboard%20en%20tensorflow.ipynb)
-
+ - [Datasets y Dataloader: creditcard](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Talleres/Cuadernos/DataLoaders-Credit_card.ipynb)
+ - [Datasets y Dataloader: MNIST](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Talleres/Cuadernos/DataLoaders-MNIST.ipynb)
+ - [Datasets y Dataloader: CIFAR10](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Talleres/Cuadernos/DataLoaders_CIFAR010.ipynb)
 ## Recursos :pushpin:
 
 * [Binder](https://mybinder.org/)
