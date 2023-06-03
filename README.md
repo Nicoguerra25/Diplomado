@@ -112,47 +112,34 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Cats Vs Dogs (Kaggle Competition)](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/03%20-%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_Cat_Dog_Kaggle.ipynb), [GitHub](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/03%20-%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_Cat_Dog_Kaggle.ipynb)
   - [Ejemplo eliminación de ruido con datos MNIST](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb), [GitHub](./Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb)
   - [Coloración de imágenes usando CIFAR 100](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb), [GitHub](./Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
-
-  Actualización hasta aquí...
-  ---
-  - [Arquitectura Resnet](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/ResNet-20v1.ipynb)
-  - Redes Profundas Modernas [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/tl_redes_modernas.ipynb)
-  - Transfer Learning [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/Cuadernos/tl_transfer_learning.ipynb)
-  - [Detección y Reconocimiento Facial](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/tl_deteccion_reconocimiento_facial.ipynb)
-  - [Audios tratados como Imágenes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_Audio.ipynb)
-  - [Análisis de Sentimientos en videos](https://drive.google.com/file/d/1IYUphobzz-ai7bvRA144REq9inW7d4q5/view?usp=sharing)
-  - [GANS-Mnist](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN-mnist.ipynb)
-  - [GANS-CelebA](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/6.%20Redes%20generativas%20adversarias/Cuadernos/GAN.ipynb)
-  - [StyleGAN (Jeff Heaton)](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_07_3_style_gan.ipynb)
-  - [Segmentación I](https://colab.research.google.com/drive/1AmaRGcvXE5cC4pCAtAAEy7W7bvRJnFKX?authuser=1)
-  - [Segmentación II](https://colab.research.google.com/drive/1V_S9RygDS0kk7hxyVg0_6rQhk4Seqd1F?usp=sharing)
+  - [Arquitectura Resnet](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/ResNet-20v1.ipynb), [GitHub](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/ResNet-20v1.ipynb)
+  - [Redes Profundas Modernas](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/tl_redes_modernas.ipynb), [Github](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/tl_redes_modernas.ipynb)
+  - [Transfer Learning](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/03%20-%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/tl_transfer_learning.ipynb), [Github](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/03%20-%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/tl_transfer_learning.ipynb)
+   - [GANS-Mnist](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN-mnist.ipynb), [GitHub](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN-mnist.ipynb)
+  - [GANS-CelebA](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/DCGAN_Rostros_falsos.ipynb), [GitHub](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/DCGAN_Rostros_falsos.ipynb)
+  - [GAN's condicionales](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN_condicional.ipynb), [GitHub](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN_condicional.ipynb)
+  - [GAN's Pytorch-lightning](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN_lightning.ipynb), [GitHub](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN_lightning.ipynb)
+  - [Audios tratados como Imágenes](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/04%20-%20Tratamiento%20de%20Audios/cuadernos/ti_Audio.ipynb), [GitHub](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/04%20-%20Tratamiento%20de%20Audios/cuadernos/ti_Audio.ipynb)
 
 
 
-  ---
-  - [Autocodificador Convolucional para Eliminación de Ruido](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/Noise_Elimination_Conv.ipynb)
-  - [Aplicación a pruebas de Estado. Modelo TRI multidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam.ipynb)
-  - [Aplicación a pruebas de Estado. Modelo TRI Muti-unidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam-multi_uni.ipynb)
-
-- Autocodificadores variacionales :large_blue_diamond:
-  - [Introducción a autoencoders variacionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAE_Introduction.ipynb)
-  - [Implementación  de un autoencoder variacional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAE_Example_Dense_mnist.ipynb)
-  - [Modelos TRI y autocodificadores variacionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAI_Introduction-TRI.ipynb)
-- Tensorflow :fire:
-   - [Inicio rápido](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo-16%20Tensorflow/Caudernos/Tensorflow-01.ipynb)
-   - [Datasets. La API tf.data](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/La%20API%20tf.data.ipynb)
    
 - Redes Recurrentes :repeat:
-  - [Introducción a modelos secuenciales](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Times_series_Intro.ipynb)
-  - Introducción a redes recurrentes [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb)
-  - [Introducción a redes LSTM](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_LSTM_Intro.ipynb)
-  - [Introducción a redes GRU](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_GRU_Intro.ipynb)
-  - [Aprendizaje profundo y series de tiempo ](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Times_series_Intro-lstm.ipynb)
-  - Predicción de la acción de Apple a un día, [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_un_dia-dropout_new.ipynb)
-  - Predicción de la acción de Apple a tres días, [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-dropout_new.ipynb)
-  - Predicción de todos valores en una ventana futura, [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_diez_dias-multiple_new.ipynb)
-  - Predicción de la acción de Apple a un día usando Conv-LSTM, [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_un_dia_Conv_LSTM_new.ipynb)
-  - [Series de tiempo  Multivariadas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnrTimes_series_Multivariate.ipynb)
+  -  [Introducción a modelos secuenciales](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_Intro_Modelos_Secuenciales.ipynb), [Github](./Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_Intro_Modelos_Secuenciales.ipynb)
+  - [Introducción a redes neuronales recurrentes](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb), [Github](./Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb)
+  - [Introducción a redes LSTM](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_LSTM_Intro.ipynb), [Github](./Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_LSTM_Intro.ipynb)
+  - [Introducción a redes GRU](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_GRU_Intro.ipynb), [Github](./Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_GRU_Intro.ipynb)
+  - [Taller series de tiempo LSTM y GRU](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_Times_series_Intro-lstm.ipynb),  [Github](./Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_Times_series_Intro-lstm.ipynb)
+
+ - [Predicción de la acción de Apple a un día](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_un_dia-dropout_new.ipynb), [GitHub](./Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_un_dia-dropout_new.ipynb)
+  - [Predicción de la acción de Apple a tres días](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-dropout_new.ipynb), [GitHub](./Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_Stock_Prices_Prediction_a_tres_dias.ipynb)
+  - [Predicción de todos valores en una ventana futura](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_diez_dias-multiple_new.ipynb), [GitHub](./Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_diez_dias-multiple_new.ipynb)
+  - [Predicción de la acción de Apple a un día usando Conv-LSTM](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_un_dia_Conv_LSTM_new.ipynb), [GitHub](./Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_un_dia_Conv_LSTM_new.ipynb)
+  - [Series de tiempo  Multivariadas](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnrTimes_series_Multivariate.ipynb), [GitHub](./Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnrTimes_series_Multivariate.ipynb)
+  - [Series de tiempo con Darts](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/00-Darts_quickstart.ipynb), [GitHub](./Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/00-Darts_quickstart.ipynb)
+   
+   Actualización hasta aquí...
+  ---
   - [Series de tiempo  muy largas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Long_Time_series.ipynb)
   - [Tutorial Google de Series de tiempo 2021](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_google_time_series.ipynb)
 
@@ -168,10 +155,10 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Generación automática de texto. Sonetos Shakespeare](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Shakespeare-Original.ipynb)
 
 - Transformers :fireworks:
-  - [Introducción a mecanismos de atención](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/pln_sesion_04_01_mecanismos_atencion.ipynb)
-  - [Mecanismos de atención ilustrado](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/pln_sesion_04_02_atencion_pln.ipynb)
-  - [Mecanismos de auto-atención](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/pln_sesion_04_03_auto_atencion_pln.ipynb)
-  - [Transformers paso a paso](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/trTransformers_paso_a_paso.ipynb)
+  - [Introducción al concepto de atención](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/pln_sesion_04_01_mecanismos_atencion.ipynb)
+  - [Arquitectura de Modelos de atención](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/pln_sesion_04_02_atencion_pln.ipynb)
+  - [Arquitectura de modelos de auto-atención](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/pln_sesion_04_03_auto_atencion_pln.ipynb)
+  - [Arquitectura Transformer](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/nlp_Transformers-TF2.ipynb)
   - [Implementación completa del Transformer en Tensorflow 2.X](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/nlp_Transformers-TF2.ipynb)
   - [Transformer Traductor Inglés-Español con Keras ](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tr_machine-translation-transformers.ipynb)
   - [Transformer Traductor Portugués-Ingles con tf2](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/gpu_%20transformer_traductor.ipynb)
@@ -248,6 +235,27 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
  - [Datasets y Dataloader: creditcard](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Talleres/Cuadernos/DataLoaders-Credit_card.ipynb)
  - [Datasets y Dataloader: MNIST](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Talleres/Cuadernos/DataLoaders-MNIST.ipynb)
  - [Datasets y Dataloader: CIFAR10](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Talleres/Cuadernos/DataLoaders_CIFAR010.ipynb)
+
+## Otros Provisional
+
+  - [Detección y Reconocimiento Facial](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/tl_deteccion_reconocimiento_facial.ipynb)
+  - [Análisis de Sentimientos en videos](https://drive.google.com/file/d/1IYUphobzz-ai7bvRA144REq9inW7d4q5/view?usp=sharing)
+  - [StyleGAN (Jeff Heaton)](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_07_3_style_gan.ipynb)
+  - [Segmentación I](https://colab.research.google.com/drive/1AmaRGcvXE5cC4pCAtAAEy7W7bvRJnFKX?authuser=1)
+  - [Segmentación II](https://colab.research.google.com/drive/1V_S9RygDS0kk7hxyVg0_6rQhk4Seqd1F?usp=sharing)
+  - [Autocodificador Convolucional para Eliminación de Ruido](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/Noise_Elimination_Conv.ipynb)
+  - [Aplicación a pruebas de Estado. Modelo TRI multidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam.ipynb)
+  - [Aplicación a pruebas de Estado. Modelo TRI Muti-unidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam-multi_uni.ipynb)
+
+- Autocodificadores variacionales :large_blue_diamond:
+  - [Introducción a autoencoders variacionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAE_Introduction.ipynb)
+  - [Implementación  de un autoencoder variacional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAE_Example_Dense_mnist.ipynb)
+  - [Modelos TRI y autocodificadores variacionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAI_Introduction-TRI.ipynb)
+- Tensorflow :fire:
+   - [Inicio rápido](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo-16%20Tensorflow/Caudernos/Tensorflow-01.ipynb)
+   - [Datasets. La API tf.data](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/La%20API%20tf.data.ipynb)
+
+
 ## Recursos :pushpin:
 
 * [Binder](https://mybinder.org/)
